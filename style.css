@@ -120,9 +120,8 @@ body.loaded .fadein {
 Arial, Helvetica, sans-serif
 
 
-p.font1 {
-  font-family: "Arial", Helvetica, sans-serif;
-}
+p.font1 { font-family: 'Roboto', san-serif; }
+ 
 
 
 .githubbutton {
