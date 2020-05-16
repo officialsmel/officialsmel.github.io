@@ -13,3 +13,5 @@ Just pure javascript and html css.
 ## Contributing
 Make an issue first before pull request.
 
+## Can I have a preview it?
+Yes you can at https://smel.now.sh or https://github.io/smel choose a comfortable link one :).
