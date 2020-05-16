@@ -117,10 +117,10 @@ body.loaded .fadein {
   
 }
 
-Arial, Helvetica, sans-serif
+p { font-family: 'Roboto', sans-serif; }
 
 
-p.font1 { font-family: 'Roboto', san-serif; }
+a { font-family: 'Roboto', sans-serif; color: purple; text-decoration: none; }
  
 
 
