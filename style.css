@@ -172,3 +172,7 @@ a { font-family: 'Roboto', sans-serif; color: purple; text-decoration: none; }
   background-color: blue; 
   color: white;
 }
+
+.button:active {
+  outline: none;
+}
