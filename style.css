@@ -180,5 +180,5 @@ a { font-family: 'Roboto', sans-serif; color: purple; text-decoration: none; }
 .thumbnail {
   width: 100px;
   height: 100px;
-  visibility: hidden;
+  display: none;
 }
