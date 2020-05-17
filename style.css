@@ -176,3 +176,9 @@ a { font-family: 'Roboto', sans-serif; color: purple; text-decoration: none; }
 .button:active {
   outline: none;
 }
+
+.thumbnail {
+  width: 100px;
+  height: 100px;
+  visibility: hidden;
+}
